@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome on Vital Cadlec S. AKPAMOLI Ghitub page
 
-You can use the [editor on GitHub](https://github.com/cadlec/cadlec.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an Network Engineer and a web developer enthousiast. I'm still working on my web skills to be a great Software Engineer too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I do like new technologies :).
+I really like Laravel and NodeJs, especially AdonisJs.
 
-### Markdown
+_VueJs and ReactJs coding newbie._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Portfolio
 
-```markdown
-Syntax highlighted code block
+**English dictionnary Application(side project)**
+ - https://crunchwords.herokuapp.com
 
-# Header 1
-## Header 2
-### Header 3
+**Chat app (side project)**
+ - https://random-chat-front.herokuapp.com/
 
-- Bulleted
-- List
+**Some enterprises websites:**
+- https://scirylab.com
+- http://aegservice.net
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cadlec/cadlec.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to contact me, or hire me for a job ? https://about.me/vital_akpamoli
