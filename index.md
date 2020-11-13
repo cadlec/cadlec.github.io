@@ -13,13 +13,13 @@ _VueJs and ReactJs coding newbie._
  - <a href="https://crunchwords.herokuapp.com">https://crunchwords.herokuapp.com</a>
 
 **Chat app (side project)**
- - https://random-chat-front.herokuapp.com/
+ - <a href="https://random-chat-front.herokuapp.com">https://random-chat-front.herokuapp.com</a>
 
 **Some enterprises websites:**
-- https://scirylab.com
-- http://aegservice.net
+- <a href="https://scirylab.com">https://scirylab.com</a>
+- <a href="http://aegservice.net">http://aegservice.net</a>
 
 
 ### Support or Contact
 
-Want to contact me, or hire me for a job ? https://about.me/vital_akpamoli
+Want to contact me, or hire me for a job ? <a href="https://about.me/vital_akpamoli">https://about.me/vital_akpamoli</a>
