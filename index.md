@@ -2,7 +2,7 @@
 
 ### 1- About me
 
-I'm an Network Engineer and a web developer enthousiast. I'm still working on my web skills to be a great Software Engineer too.
+I'm a Network Engineer and a web developer enthousiast. I'm still working on my web skills to be a great Software Engineer too.
 
 I do like new technologies :).
 I really like Laravel and NodeJs, especially AdonisJs.
