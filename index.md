@@ -22,4 +22,4 @@ _VueJs and ReactJs coding newbie._
 
 ### Support or Contact
 
-Want to contact me, or hire me for a job ? <a href="https://about.me/vital_akpamoli">https://about.me/vital_akpamoli</a>
+Contact me, or hire me: <a href="https://about.me/vital_akpamoli">https://about.me/vital_akpamoli</a>
